@@ -1,6 +1,6 @@
-# Aplicacao-de-Negociacoes-em-Bolsa-de-Valores
+# Aplicação de Negociações em Bolsa de Valores
 
-## Este Projeto foi gerado durante o curso de Typescrit na Plataforma Cursos Alura.
+## Este Projeto foi gerado durante o curso de Typescript na Plataforma Cursos Alura.
 É uma aplicação web que permite que cadastremos uma data, uma quantidade, um valor de uma negociação e que possamos exibir uma lista onde o usuário possa verificar o que foi cadastrado.
 
 ## Infraestrutura:
